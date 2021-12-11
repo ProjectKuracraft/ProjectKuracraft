@@ -1,5 +1,5 @@
 **Project Kuracraft** is an Minecraft SMP with a custom Texturepack and Datapack.
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 **Contact**: `project.kuracraft@gmail.com`
 **IP**:  `kuracraft.aternos.me`
 
