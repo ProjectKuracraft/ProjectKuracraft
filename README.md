@@ -5,7 +5,7 @@
     </center>
     <strong>Project Kuracraft GitHub Page</strong>
     <br><br>
-    This is the official GitHub Page for <strong>Project Kuracraft</strong>.<br>All of the Code and Resources are stored here.
+    This is the official GitHub Page for <strong>Project Kuracraft</strong>.<br>Everything of the Code and all Resources are stored here.
 		<br>
 		<br>
 		<strong>Overview</strong>
